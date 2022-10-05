@@ -1,1 +1,1 @@
-The repository contains soluions to shell tasks
+Uramu first readme
